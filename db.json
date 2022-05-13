@@ -1,0 +1,62 @@
+[ 
+    {
+        "nombre": "producto1",
+        "precio": 2.999,
+        "imagen": "/Img/Collar-para-perro.jpg"
+    },
+    {
+        "nombre": "producto2",
+        "precio": 5.999,
+        "imagen": "/Img/Collar-para-perro.jpg"
+    },
+    {
+        "nombre": "producto3",
+        "precio": 9.599,
+        "imagen": "/Img/Collar-para-perro.jpg"
+    },
+    {
+        "nombre": "producto4",
+        "precio": 7.999,
+        "imagen": "/Img/Collar-para-perro.jpg"
+    },
+    {
+        "nombre": "producto5",
+        "precio": 21.999,
+        "imagen": "/Img/Collar-para-perro.jpg"
+    },
+    {
+        "nombre": "producto6",
+        "precio": 80.999,
+        "imagen": "/Img/Collar-para-perro.jpg"
+    },
+    {
+        "nombre": "producto7",
+        "precio": 26.999,
+        "imagen": "/Img/Collar-para-perro.jpg"
+    },
+    {
+        "nombre": "producto8",
+        "precio": 27.999,
+        "imagen": "/Img/Collar-para-perro.jpg"
+    },
+    {
+        "nombre": "producto9",
+        "precio": 26.999,
+        "imagen": "/Img/Collar-para-perro.jpg"
+    },
+    {
+        "nombre": "producto10",
+        "precio": 28.999,
+        "imagen": "/Img/Collar-para-perro.jpg"
+    },
+    {
+        "nombre": "producto11",
+        "precio": 24.999,
+        "imagen": "/Img/Collar-para-perro.jpg"
+    },
+    {
+        "nombre": "producto12",
+        "precio": 57.999,
+        "imagen": "/Img/Collar-para-perro.jpg"
+    }
+]
